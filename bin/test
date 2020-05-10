@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Don't forget to activate wirtual environemnt before you use this script
+# Don't forget to activate virtual environment before you use this script
 python -m unittest discover
